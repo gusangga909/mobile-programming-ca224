@@ -1,5 +1,8 @@
 # moments
 
+Nama : Ni Ketut Rai Nukarimasih
+NIM : 220040256
+
 A new Flutter project.
 
 ## Getting Started
